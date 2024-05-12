@@ -24,7 +24,7 @@ From an architecture standpoint, blockchains can be divided into three conceptua
 
 The state machine is the same as the application layer. It defines the state of the application and the state-transition functions. The other layers are responsible for replicating the state machine on all the nodes that connect to the network.
 
-### More on: https://v1.cosmos.network/intro
+### More on: https://docs.cosmos.network/v0.46/intro/sdk-app-architecture.html
 
 ## Ignite CLI
 
